@@ -1,0 +1,23 @@
+*{
+    margin:  0px;
+    padding:  0px;
+    box-sizing: border-box;
+    font-family: 'Noto Serif Display', serif;
+}
+li{
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+img{
+    width:  100%;
+}
+.css-k1d3z9-MuiGrid-root>.MuiGrid-item {
+    padding-left: 0px !important;
+}
+.css-k1d3z9-MuiGrid-root>.MuiGrid-item {
+    padding-top: 0px !important;
+}
+
+
