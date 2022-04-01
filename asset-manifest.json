@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tuan2099/grovermade/static/css/main.e28b5b2f.css",
+    "main.js": "/tuan2099/grovermade/static/js/main.17d2dbe8.js",
+    "static/js/787.9a2af771.chunk.js": "/tuan2099/grovermade/static/js/787.9a2af771.chunk.js",
+    "index.html": "/tuan2099/grovermade/index.html",
+    "main.e28b5b2f.css.map": "/tuan2099/grovermade/static/css/main.e28b5b2f.css.map",
+    "main.17d2dbe8.js.map": "/tuan2099/grovermade/static/js/main.17d2dbe8.js.map",
+    "787.9a2af771.chunk.js.map": "/tuan2099/grovermade/static/js/787.9a2af771.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e28b5b2f.css",
+    "static/js/main.17d2dbe8.js"
+  ]
+}
